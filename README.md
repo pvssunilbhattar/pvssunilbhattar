@@ -19,33 +19,93 @@
 
 ## 🧠 Mission Control
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&width=950&lines=Ingest+%E2%86%92+Validate+%E2%86%92+Transform+%E2%86%92+Serve;APIs+%E2%86%92+Pipelines+%E2%86%92+Models+%E2%86%92+Dashboards;Build+Clean+Systems+%E2%80%A2+Scale+Reliable+Data+%E2%80%A2+Ship+AI" />
+
+</div>
+
 <table>
 <tr>
-<td width="55%">
+<td align="center" width="33%">
 
-```txt
-┌──────────────────────────────────────────────┐
-│ AI / DATA / BACKEND COMMAND CENTER           │
-├──────────────────────────────────────────────┤
-│ Role      : Software Engineer | AI/Data Eng  │
-│ Current   : Data Platform Specialist         │
-│ Degree    : M.S. Data Science, UB            │
-│ Stack     : Python, SQL, PySpark, Java, AWS  │
-│ Focus     : LLM Apps, RAG, APIs, Pipelines   │
-│ Mission   : Turn raw data into intelligence  │
-└──────────────────────────────────────────────┘
-```
+### 🧩 Role Matrix
+
+<img src="https://img.shields.io/badge/Software%20Engineer-020617?style=for-the-badge&logo=codeforces&logoColor=00F5FF" />
+<br/>
+<img src="https://img.shields.io/badge/AI%20%2F%20Data%20Engineer-020617?style=for-the-badge&logo=openai&logoColor=7C3AED" />
+<br/>
+<img src="https://img.shields.io/badge/Data%20Platform%20Builder-020617?style=for-the-badge&logo=databricks&logoColor=22C55E" />
 
 </td>
-<td width="45%" align="center">
+<td align="center" width="34%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=400&color=00F5FF&center=true&vCenter=true&width=430&height=130&lines=Ingest+%E2%86%92+Validate+%E2%86%92+Transform;Model+%E2%86%92+Monitor+%E2%86%92+Scale;Build+%E2%86%92+Ship+%E2%86%92+Improve;Data+%2B+AI+%2B+Backend" />
+### ⚙️ Core Engine
+
+<img src="https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=020617" />
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/PySpark-22C55E?style=for-the-badge&logo=apache-spark&logoColor=020617" />
+<img src="https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=openjdk&logoColor=020617" />
+<br/>
+<img src="https://img.shields.io/badge/REST%20APIs-06B6D4?style=for-the-badge&logo=fastapi&logoColor=020617" />
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Current Focus
+
+<img src="https://img.shields.io/badge/LLM%20Apps-020617?style=for-the-badge&logo=openai&logoColor=00F5FF" />
+<br/>
+<img src="https://img.shields.io/badge/RAG%20Systems-020617?style=for-the-badge&logo=semantic-release&logoColor=7C3AED" />
+<br/>
+<img src="https://img.shields.io/badge/Cloud%20Data%20Workflows-020617?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" />
 
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Current-Ingram%20Micro-00F5FF?style=flat-square&labelColor=020617" />
+<br/>
+<b>Data Platform Specialist</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Degree-M.S.%20Data%20Science-7C3AED?style=flat-square&labelColor=020617" />
+<br/>
+<b>University at Buffalo</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-22C55E?style=flat-square&labelColor=020617" />
+<br/>
+<b>AI • Data • Backend</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Mission-Reliable%20Intelligence-F59E0B?style=flat-square&labelColor=020617" />
+<br/>
+<b>Build • Scale • Ship</b>
+</td>
+</tr>
+</table>
+
 I build **Python and SQL-driven data pipelines, backend services, AI/ML workflows, dashboard-ready datasets, and cloud-based data applications**. My work connects operational data, production systems, machine learning workflows, and business reporting into reliable solutions that teams can actually use.
+
+---
+
+## 🏅 Certification Badge Wall
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=020617" />
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=020617" />
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-06B6D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=020617" />
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-7C3AED?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=020617" />
+<img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=020617" />
+<img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=020617" />
+
+</div>
 
 ---
 
@@ -279,21 +339,6 @@ Designed a real-time trading engine simulation with order matching, ticker-based
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pvssunilbhattar&theme=tokyonight&hide_border=true&background=020617&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvssunilbhattar&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00F5FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pvssunilbhattar&theme=tokyonight&utcOffset=-4" />
-
-</div>
-
----
-
-## 🎓 Certification Console
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=020617" />
-<img src="https://img.shields.io/badge/Azure-Data%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=020617" />
-<img src="https://img.shields.io/badge/Azure-Data%20Fundamentals-06B6D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=020617" />
-<img src="https://img.shields.io/badge/Azure-AI%20Fundamentals-7C3AED?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=020617" />
-<img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=020617" />
-<img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=020617" />
 
 </div>
 
