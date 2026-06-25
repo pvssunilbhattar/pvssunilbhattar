@@ -109,82 +109,59 @@ I build **Python and SQL-driven data pipelines, backend services, AI/ML workflow
 
 ---
 
-## ⚡ Animated Skill Grid
+## ⚡ Skills Matrix
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1600&pause=600&color=00F5FF&center=true&width=220&lines=Languages" />
-<br/>
+<img src="https://img.shields.io/badge/LANGUAGES-020617?style=for-the-badge&logo=python&logoColor=00F5FF" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,r" />
-<br/>
-<img src="https://img.shields.io/badge/Python-Expert-00F5FF?style=flat-square&labelColor=020617" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-Advanced-00F5FF?style=flat-square&labelColor=020617" />
 <img src="https://img.shields.io/badge/Java-Backend-7C3AED?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/SQL-Core-22C55E?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/C%2B%2B-Systems-22C55E?style=flat-square&labelColor=020617" />
 </td>
 <td align="center" width="25%">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1600&pause=600&color=7C3AED&center=true&width=220&lines=Data+Systems" />
-<br/>
+<img src="https://img.shields.io/badge/DATA%20SYSTEMS-020617?style=for-the-badge&logo=databricks&logoColor=7C3AED" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-<br/>
-<img src="https://img.shields.io/badge/ETL%2FELT-Pipelines-00F5FF?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/Data%20Modeling-Strong-7C3AED?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/Query%20Optimization-SQL-22C55E?style=flat-square&labelColor=020617" />
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-Advanced-00F5FF?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/ETL%2FELT-Pipelines-7C3AED?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/Data%20Modeling-Strong-22C55E?style=flat-square&labelColor=020617" />
 </td>
 <td align="center" width="25%">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1600&pause=600&color=22C55E&center=true&width=220&lines=AI+%2F+ML" />
-<br/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-020617?style=for-the-badge&logo=tensorflow&logoColor=22C55E" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/NLP-LLM%20Apps-00F5FF?style=flat-square&labelColor=020617" />
 <img src="https://img.shields.io/badge/RAG-Prompt%20Engineering-7C3AED?style=flat-square&labelColor=020617" />
 <img src="https://img.shields.io/badge/TF--IDF-Classification-22C55E?style=flat-square&labelColor=020617" />
 </td>
 <td align="center" width="25%">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1600&pause=600&color=F59E0B&center=true&width=220&lines=Cloud+%2F+DevOps" />
-<br/>
+<img src="https://img.shields.io/badge/CLOUD%20%26%20DEVOPS-020617?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,githubactions" />
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/AWS-S3%20%7C%20Lambda%20%7C%20RDS-00F5FF?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20Actions-7C3AED?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/Azure-Data%20Platform-7C3AED?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/CI%2FCD-Actions%20%7C%20Jenkins-22C55E?style=flat-square&labelColor=020617" />
 </td>
 </tr>
 </table>
+
+<img src="https://img.shields.io/badge/Python-Advanced-00F5FF?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/SQL-Advanced-7C3AED?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/PySpark-Strong-06B6D4?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/REST%20APIs-Strong-22C55E?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/AWS-Strong-F59E0B?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/LLM%20Apps-Growing-7C3AED?style=for-the-badge&labelColor=020617" />
 
 </div>
-
----
-
-## 🔥 Skill Power Bars
-
-<table>
-<tr>
-<td width="50%">
-
-### Data + Backend Core
-
-<img src="https://progress-bar.dev/95/?title=Python&width=420&color=00F5FF" />  
-<img src="https://progress-bar.dev/92/?title=SQL&width=420&color=7C3AED" />  
-<img src="https://progress-bar.dev/88/?title=REST%20APIs&width=420&color=22C55E" />  
-<img src="https://progress-bar.dev/84/?title=Java%20Backend&width=420&color=F59E0B" />  
-<img src="https://progress-bar.dev/86/?title=ETL%20Pipelines&width=420&color=06B6D4" />
-
-</td>
-<td width="50%">
-
-### AI + Cloud Layer
-
-<img src="https://progress-bar.dev/90/?title=NLP%20%26%20Text%20Classification&width=420&color=00F5FF" />  
-<img src="https://progress-bar.dev/86/?title=LLM%20Apps%20%26%20RAG&width=420&color=7C3AED" />  
-<img src="https://progress-bar.dev/84/?title=PySpark&width=420&color=22C55E" />  
-<img src="https://progress-bar.dev/82/?title=AWS%20Data%20Workflows&width=420&color=F59E0B" />  
-<img src="https://progress-bar.dev/80/?title=Monitoring%20%26%20Reliability&width=420&color=06B6D4" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -257,107 +234,3 @@ timeline
 </td>
 </tr>
 </table>
-
----
-
-## 🧪 Featured Project Dashboard
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏨 Hospitality Management System
-**Python • PL/SQL • AWS RDS • Lambda • S3 • ETL**
-
-<img src="https://img.shields.io/badge/Database%20Design-020617?style=for-the-badge&logo=postgresql&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/AWS%20Data%20Layer-020617?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Analytics%20Ready-020617?style=for-the-badge&logo=tableau&logoColor=7C3AED" />
-
-Built an end-to-end hotel operations system for reservations, guest management, room inventory, reporting, normalized schema design, and scalable AWS-backed workflows.
-
-</td>
-<td width="50%">
-
-### 🌐 Big Data Analysis & Optimization
-**Hadoop • MapReduce • PySpark • Data Mining**
-
-<img src="https://img.shields.io/badge/Mapper%20Output-41%25%20Reduced-22C55E?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/PageRank-PySpark-00F5FF?style=for-the-badge&labelColor=020617" />
-
-Processed large-scale text data, optimized word count performance, reduced mapper output by 41%, and implemented PageRank using PySpark distributed systems.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 AI Classification Pipelines
-**Python • NLP • TF-IDF • Logistic Regression • Naive Bayes • MongoDB**
-
-<img src="https://img.shields.io/badge/Text%20Classification-NLP-00F5FF?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/Model%20Evaluation-ML-7C3AED?style=for-the-badge&labelColor=020617" />
-
-Built ML workflows for preprocessing, feature extraction, classification, model evaluation, and structured AI output storage.
-
-</td>
-<td width="50%">
-
-### 📈 Real-Time Stock Engine
-**Python • Backend Logic • Order Matching • Concurrency**
-
-<img src="https://img.shields.io/badge/Backend%20Logic-Python-00F5FF?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/System%20Design-Concurrency-7C3AED?style=for-the-badge&labelColor=020617" />
-
-Designed a real-time trading engine simulation with order matching, ticker-based transactions, and backend-focused system design logic.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧬 AI Enhancement Layer
-
-```txt
-┌──────────────────────────── AI EXTENSION BOARD ─────────────────────────────┐
-│ Resume + Job Match Assistant     → GPT-powered ATS tailoring                │
-│ Hospitality Analytics Assistant  → Natural language business insights        │
-│ Model Explanation Layer          → AI-generated prediction explanations      │
-│ Trading Log Analyzer             → AI summary of simulated activity          │
-│ Interview Prep Agent             → Resume + JD based spoken answer builder   │
-│ Data Quality Copilot             → Explains validation failures and patterns │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Performance Board
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pvssunilbhattar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00F5FF&icon_color=7C3AED&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pvssunilbhattar&theme=tokyonight&hide_border=true&background=020617&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvssunilbhattar&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00F5FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pvssunilbhattar&theme=tokyonight&utcOffset=-4" />
-
-</div>
-
----
-
-## 🌌 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pvssunilbhattar&bg_color=020617&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Build+clean.;Scale+smart.;Explain+clearly.;Ship+reliably." />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00F5FF,45:7C3AED,100:020617&section=footer" />
-
-</div>
