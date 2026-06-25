@@ -1,34 +1,36 @@
-# Hi, I'm Venkata Sai Sunil 👋
+<!-- CYBER AI DASHBOARD PROFILE README -->
 
-I’m a Software Engineer and Data/AI Engineer with experience building backend systems, machine learning pipelines, database-driven applications, and AI-powered automation tools. I have worked across software development, content moderation AI, NLP, computer vision, cloud databases, and real-time systems.
+<div align="center">
 
-## What I Build
-- Backend and full-stack applications using Python, Java, Spring Boot, SQL, REST APIs, and Streamlit
-- Machine learning pipelines for NLP, sensitive information detection, and computer vision
-- Database systems with PostgreSQL, MySQL, normalization, indexing, and analytics queries
-- AI/GPT-powered tools for text analysis, summarization, classification, and workflow automation
-- Cloud-ready applications using AWS RDS, S3, Lambda, Docker, and GitHub Actions
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,35:111827,65:7C3AED,100:00E5FF&text=Venkata%20Sai%20Sunil&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20Data%20Engineer%20%7C%20Cloud%20Builder&descSize=18&descAlignY=58" />
 
-## Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+Data+%26+Backend+Systems;Python+%7C+SQL+%7C+PySpark+%7C+AWS+%7C+Azure;LLM+Apps+%7C+RAG+%7C+NLP+%7C+Production+Pipelines;Turning+raw+data+into+reliable+intelligence" />
 
-### Real-Time Stock Trading Engine
-Built a Python-based trading engine that matches buy and sell orders in real time, supports 1,024 tickers, and simulates concurrent transactions using efficient order-matching logic.
+<br/>
 
-### Sensitive Information Detection System
-Developed ML-based detection pipelines for credit card data, HIPAA-related information, and policy-sensitive text using preprocessing, TF-IDF, classification models, and MongoDB storage.
+<a href="mailto:p.v.s.sunilbhattar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+</a>
+<a href="https://github.com/pvssunilbhattar">
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
+</a>
+<a href="YOUR_LINKEDIN_URL_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+</a>
 
-### Facial Emotion Detection
-Implemented a deep learning-based facial emotion recognition system using image preprocessing and a pre-trained emotion detection model.
+</div>
 
-### Hospitality Management System
-Designed a normalized hotel booking database with PostgreSQL, AWS RDS, Streamlit, and analytics dashboards for booking, room, agent, and customer insights.
+---
 
-## Current Focus
-- GPT and LLM application development
-- RAG systems and AI agents
-- Backend engineering and distributed systems
-- Data engineering and cloud-based analytics
-- Production-ready ML and automation workflows
+## 🧠 AI / Data Engineering Command Center
 
-## Tech Stack
-Python | Java | SQL | Spring Boot | FastAPI | Streamlit | PostgreSQL | MySQL | MongoDB | AWS | Docker | GitHub Actions | scikit-learn | TensorFlow | OpenAI API | NLP | Computer Vision
+```txt
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ PROFILE                                                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Role        : Software Engineer | AI/Data Engineer | Data Platform Builder   │
+│ Experience  : 4+ years across AI, data pipelines, backend, cloud workflows   │
+│ Focus       : Python, SQL, PySpark, REST APIs, LLM apps, RAG, NLP, AWS       │
+│ Strength    : Building reliable data systems from raw data to production     │
+│ Current     : Data Platform Specialist @ Ingram Micro                       │
+└─────────────────────────────────────────────────────────────────────────────┘
